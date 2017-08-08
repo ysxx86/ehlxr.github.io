@@ -405,8 +405,8 @@
         <category>Git</category>
       </categories>
       <tags>
-        <tag>CentOS</tag>
         <tag>Git</tag>
+        <tag>CentOS</tag>
       </tags>
   </entry>
   <entry>
@@ -452,8 +452,8 @@
         <category>Git</category>
       </categories>
       <tags>
-        <tag>CentOS</tag>
         <tag>Git</tag>
+        <tag>CentOS</tag>
         <tag>GitLab</tag>
       </tags>
   </entry>
@@ -465,9 +465,9 @@
         <category>Linux</category>
       </categories>
       <tags>
+        <tag>Git</tag>
         <tag>Linux</tag>
         <tag>CentOS</tag>
-        <tag>Git</tag>
       </tags>
   </entry>
   <entry>
