@@ -393,8 +393,8 @@
         <category>Git</category>
       </categories>
       <tags>
-        <tag>Gogs</tag>
         <tag>Git</tag>
+        <tag>Gogs</tag>
       </tags>
   </entry>
   <entry>
@@ -465,8 +465,8 @@
         <category>Linux</category>
       </categories>
       <tags>
-        <tag>Git</tag>
         <tag>Linux</tag>
+        <tag>Git</tag>
         <tag>CentOS</tag>
       </tags>
   </entry>
@@ -479,8 +479,8 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-        <tag>Node.js</tag>
         <tag>CentOS</tag>
+        <tag>Node.js</tag>
       </tags>
   </entry>
   <entry>
