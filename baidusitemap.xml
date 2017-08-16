@@ -93,30 +93,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 7 安装最新的 Git</title>
-        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -134,6 +110,56 @@
            
              
               <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/12/22/CentOS-%E5%AE%89%E8%A3%85-rar%E3%80%81zip-%E8%A7%A3%E5%8E%8B%E7%BC%A9/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 安装 rar、zip 解压缩</title>
+        <pubTime>2016-12-22T07:39:45.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>rar</tag>
+         
+        <tag>zip</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
+        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>GitLab</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -169,52 +195,6 @@
         <pubTime>2016-07-24T10:55:59.000Z</pubTime>
         
         <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/28/GitHub-%E6%9B%B4%E6%96%B0%E5%B7%B2%E7%BB%8F-fork-%E7%9A%84%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>GitHub 更新已经 fork 的项目</title>
-        <pubTime>2016-07-28T02:12:15.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-        <tag>GitHub</tag>
-         
-         
-           
-             
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
-        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>GitLab</tag>
          
          
            
@@ -269,6 +249,28 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2016/07/28/GitHub-%E6%9B%B4%E6%96%B0%E5%B7%B2%E7%BB%8F-fork-%E7%9A%84%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>GitHub 更新已经 fork 的项目</title>
+        <pubTime>2016-07-28T02:12:15.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>GitHub</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2016/07/20/Java-List%E4%B8%8E%E6%95%B0%E7%BB%84%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -291,21 +293,19 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/01/18/Linux-%E7%9A%84-nohup-%E5%91%BD%E4%BB%A4%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
+    <loc>https://ehlxr.me/2017/03/29/Java-%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Linux 的 nohup 命令的用法</title>
-        <pubTime>2017-01-18T08:13:21.000Z</pubTime>
+        <title>Java 获取系统的配置信息</title>
+        <pubTime>2017-03-29T07:33:54.000Z</pubTime>
         
-        <tag>Linux</tag>
-         
-        <tag>nohup</tag>
+        <tag>Java</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
@@ -337,19 +337,19 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/03/29/Java-%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/</loc>
+    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Java 获取系统的配置信息</title>
-        <pubTime>2017-03-29T07:33:54.000Z</pubTime>
+        <title>Linux 操作笔记</title>
+        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
         
-        <tag>Java</tag>
+        <tag>Linux</tag>
          
          
            
              
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -357,19 +357,21 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/20/MySQL%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B0/</loc>
+    <loc>https://ehlxr.me/2017/01/18/Linux-%E7%9A%84-nohup-%E5%91%BD%E4%BB%A4%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>MySQL日期函数</title>
-        <pubTime>2016-07-20T06:16:17.000Z</pubTime>
+        <title>Linux 的 nohup 命令的用法</title>
+        <pubTime>2017-01-18T08:13:21.000Z</pubTime>
         
-        <tag>MySQL</tag>
+        <tag>Linux</tag>
+         
+        <tag>nohup</tag>
          
          
            
              
-              <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -397,19 +399,19 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ehlxr.me/2016/07/20/MySQL%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Linux 操作笔记</title>
-        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
+        <title>MySQL日期函数</title>
+        <pubTime>2016-07-20T06:16:17.000Z</pubTime>
         
-        <tag>Linux</tag>
+        <tag>MySQL</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
           
         </display>
     </data>
@@ -456,6 +458,28 @@
            
              
               <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/28/Oracle-%E4%B8%8E-MySQL-%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>Oracle 与 MySQL 知识总结</title>
+        <pubTime>2016-07-28T06:06:36.000Z</pubTime>
+        
+        <tag>MySQL</tag>
+         
+        <tag>Oracle</tag>
+         
+         
+           
+             
+              <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
           
         </display>
     </data>
@@ -523,50 +547,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/28/Oracle-%E4%B8%8E-MySQL-%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>Oracle 与 MySQL 知识总结</title>
-        <pubTime>2016-07-28T06:06:36.000Z</pubTime>
-        
-        <tag>MySQL</tag>
-         
-        <tag>Oracle</tag>
-         
-         
-           
-             
-              <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/19/hello-world/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-07-19T02:47:23.000Z</pubTime>
-        
-        <tag>杂谈</tag>
-         
-        <tag>hello</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/12/02/Vim-Tab-%E8%AE%BE%E7%BD%AE%E4%B8%BA-4-%E4%B8%AA%E7%A9%BA%E6%A0%BC/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -600,6 +580,28 @@
            
              
               <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/19/hello-world/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-07-19T02:47:23.000Z</pubTime>
+        
+        <tag>杂谈</tag>
+         
+        <tag>hello</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -654,27 +656,6 @@
     </url>
 
     
-  <url>
-    <loc>https://ehlxr.me/2017/05/24/%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3%E3%80%81PID-%E6%9F%A5%E8%AF%A2%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>占用端口、PID 查询总结</title>
-        <pubTime>2017-05-24T02:45:20.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>Mac</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
@@ -699,14 +680,36 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
+    <loc>https://ehlxr.me/2017/05/24/%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3%E3%80%81PID-%E6%9F%A5%E8%AF%A2%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>忙忙碌碌的十一月份</title>
-        <pubTime>2016-11-30T12:04:13.000Z</pubTime>
+        <title>占用端口、PID 查询总结</title>
+        <pubTime>2017-05-24T02:45:20.000Z</pubTime>
         
-        <tag>杂谈</tag>
+        <tag>Linux</tag>
+         
+        <tag>Mac</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/19/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>开始blog，哈哈</title>
+        <pubTime>2016-07-19T09:16:17.000Z</pubTime>
+        
+        <tag>hello</tag>
          
          
            
@@ -718,16 +721,15 @@
     </url>
 
     
-    
   <url>
-    <loc>https://ehlxr.me/2016/07/19/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/</loc>
+    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>开始blog，哈哈</title>
-        <pubTime>2016-07-19T09:16:17.000Z</pubTime>
+        <title>忙忙碌碌的十一月份</title>
+        <pubTime>2016-11-30T12:04:13.000Z</pubTime>
         
-        <tag>hello</tag>
+        <tag>杂谈</tag>
          
          
            
@@ -804,30 +806,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转]CentOS 升级 kernel</title>
-        <pubTime>2017-01-10T03:01:09.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>kernel</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -841,6 +819,26 @@
            
              
               <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/10/24/%E8%AE%BE%E7%BD%AE-Sublime-Text3-%E4%B8%BB%E9%A2%98%E9%80%8F%E6%98%8E/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>设置 Sublime Text3 主题透明</title>
+        <pubTime>2016-10-24T09:30:55.000Z</pubTime>
+        
+        <tag>Sublime</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
@@ -868,6 +866,30 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转]CentOS 升级 kernel</title>
+        <pubTime>2017-01-10T03:01:09.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>kernel</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2017/06/15/%E8%BD%AC-Git%E6%9F%A5%E7%9C%8B%E3%80%81%E5%88%A0%E9%99%A4%E3%80%81%E9%87%8D%E5%91%BD%E5%90%8D%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E5%92%8Ctag/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -881,26 +903,6 @@
            
              
               <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/10/24/%E8%AE%BE%E7%BD%AE-Sublime-Text3-%E4%B8%BB%E9%A2%98%E9%80%8F%E6%98%8E/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>设置 Sublime Text3 主题透明</title>
-        <pubTime>2016-10-24T09:30:55.000Z</pubTime>
-        
-        <tag>Sublime</tag>
-         
-         
-           
-             
-              <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
@@ -930,42 +932,18 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>[转]Linux 查看系统内核版本和发行版本</title>
-        <pubTime>2016-11-18T06:56:43.000Z</pubTime>
+        <title>CentOS 7 安装最新的 Git</title>
+        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
         
-        <tag>Linux</tag>
+        <tag>Git</tag>
          
-        <tag>Linux版本</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/12/22/CentOS-%E5%AE%89%E8%A3%85-rar%E3%80%81zip-%E8%A7%A3%E5%8E%8B%E7%BC%A9/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 安装 rar、zip 解压缩</title>
-        <pubTime>2016-12-22T07:39:45.000Z</pubTime>
-        
         <tag>Linux</tag>
          
         <tag>CentOS</tag>
-         
-        <tag>rar</tag>
-         
-        <tag>zip</tag>
          
          
            
@@ -998,19 +976,21 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>[转]Kafka入门教程</title>
-        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
+        <title>[转]Linux 查看系统内核版本和发行版本</title>
+        <pubTime>2016-11-18T06:56:43.000Z</pubTime>
         
-        <tag>Kafka</tag>
+        <tag>Linux</tag>
+         
+        <tag>Linux版本</tag>
          
          
            
              
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -1033,6 +1013,48 @@
            
              
               <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
+        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转]Kafka入门教程</title>
+        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
+        
+        <tag>Kafka</tag>
+         
+         
+           
+             
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
@@ -1075,28 +1097,6 @@
            
              
               <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
-        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
