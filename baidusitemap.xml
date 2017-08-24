@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://ehlxr.me/2017/08/24/%E8%BD%AC-Go-Cheat-Sheet/</loc>
-    <lastmod>2017-08-24T07:41:57.000Z</lastmod>
+    <lastmod>2017-08-24T07:47:02.000Z</lastmod>
     <data>
         <display>
         <title>[转]Go Cheat Sheet</title>
@@ -108,23 +108,25 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <loc>https://ehlxr.me/2016/12/22/CentOS-%E5%AE%89%E8%A3%85-rar%E3%80%81zip-%E8%A7%A3%E5%8E%8B%E7%BC%A9/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>使用Hexo基于GitHub Pages搭建个人博客（一）</title>
-        <pubTime>2016-07-23T03:35:43.000Z</pubTime>
+        <title>CentOS 安装 rar、zip 解压缩</title>
+        <pubTime>2016-12-22T07:39:45.000Z</pubTime>
         
-        <tag>Git</tag>
+        <tag>Linux</tag>
          
-        <tag>GitHub</tag>
+        <tag>CentOS</tag>
          
-        <tag>Hexo</tag>
+        <tag>rar</tag>
+         
+        <tag>zip</tag>
          
          
            
              
-              <breadCrumb title="Hexo" url="https://ehlxr.me/categories/Hexo/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -326,16 +328,14 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/01/18/Linux-%E7%9A%84-nohup-%E5%91%BD%E4%BB%A4%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
+    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Linux 的 nohup 命令的用法</title>
-        <pubTime>2017-01-18T08:13:21.000Z</pubTime>
+        <title>Linux 操作笔记</title>
+        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
         
         <tag>Linux</tag>
-         
-        <tag>nohup</tag>
          
          
            
@@ -348,14 +348,16 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ehlxr.me/2017/01/18/Linux-%E7%9A%84-nohup-%E5%91%BD%E4%BB%A4%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Linux 操作笔记</title>
-        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
+        <title>Linux 的 nohup 命令的用法</title>
+        <pubTime>2017-01-18T08:13:21.000Z</pubTime>
         
         <tag>Linux</tag>
+         
+        <tag>nohup</tag>
          
          
            
@@ -622,23 +624,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
+    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 7 安装最新的 Git</title>
-        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
+        <title>使用Hexo基于GitHub Pages搭建个人博客（一）</title>
+        <pubTime>2016-07-23T03:35:43.000Z</pubTime>
         
         <tag>Git</tag>
          
-        <tag>Linux</tag>
+        <tag>GitHub</tag>
          
-        <tag>CentOS</tag>
+        <tag>Hexo</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Hexo" url="https://ehlxr.me/categories/Hexo/"/>
           
         </display>
     </data>
@@ -711,26 +713,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>忙忙碌碌的十一月份</title>
-        <pubTime>2016-11-30T12:04:13.000Z</pubTime>
-        
-        <tag>杂谈</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/11/02/%E6%B5%8B%E8%AF%95-Travis-CI-%E7%BB%93%E5%90%88-Hexo-%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -746,6 +728,26 @@
            
              
               <breadCrumb title="持续构建" url="https://ehlxr.me/categories/%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>忙忙碌碌的十一月份</title>
+        <pubTime>2016-11-30T12:04:13.000Z</pubTime>
+        
+        <tag>杂谈</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -795,19 +797,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
+    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>看懂的人都还在加班中...</title>
-        <pubTime>2016-10-27T07:06:38.000Z</pubTime>
+        <title>[转]CentOS 升级 kernel</title>
+        <pubTime>2017-01-10T03:01:09.000Z</pubTime>
         
-        <tag>程序员幽默</tag>
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>kernel</tag>
          
          
            
              
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -835,23 +841,19 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
+    <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>[转]CentOS 升级 kernel</title>
-        <pubTime>2017-01-10T03:01:09.000Z</pubTime>
+        <title>看懂的人都还在加班中...</title>
+        <pubTime>2016-10-27T07:06:38.000Z</pubTime>
         
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>kernel</tag>
+        <tag>程序员幽默</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -898,6 +900,29 @@
     </url>
 
     
+  <url>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 7 安装最新的 Git</title>
+        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://ehlxr.me/2016/07/21/%E8%BD%AC-JMS%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
@@ -915,30 +940,6 @@
            
              
               <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 安装 Nginx</title>
-        <pubTime>2016-12-23T03:20:44.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>Nginx</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -965,6 +966,7 @@
     </url>
 
     
+    
   <url>
     <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
@@ -981,26 +983,6 @@
            
              
               <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转]Kafka入门教程</title>
-        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
-        
-        <tag>Kafka</tag>
-         
-         
-           
-             
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
@@ -1052,6 +1034,26 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转]Kafka入门教程</title>
+        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
+        
+        <tag>Kafka</tag>
+         
+         
+           
+             
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2016/10/19/%E8%BD%AC-%E7%94%A8-Markdown-%E5%86%99%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%EF%BC%88Evernote%EF%BC%89/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -1095,20 +1097,18 @@
     
     
   <url>
-    <loc>https://ehlxr.me/2016/12/22/CentOS-%E5%AE%89%E8%A3%85-rar%E3%80%81zip-%E8%A7%A3%E5%8E%8B%E7%BC%A9/</loc>
+    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 安装 rar、zip 解压缩</title>
-        <pubTime>2016-12-22T07:39:45.000Z</pubTime>
+        <title>CentOS 安装 Nginx</title>
+        <pubTime>2016-12-23T03:20:44.000Z</pubTime>
         
         <tag>Linux</tag>
          
         <tag>CentOS</tag>
          
-        <tag>rar</tag>
-         
-        <tag>zip</tag>
+        <tag>Nginx</tag>
          
          
            
