@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ehlxr.me/"/>
-  <updated>2017-08-24T07:47:02.000Z</updated>
+  <updated>2017-08-26T02:48:40.000Z</updated>
   <id>https://ehlxr.me/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>[转]Go Cheat Sheet</title>
+    <title>[转] Go Cheat Sheet</title>
     <link href="https://ehlxr.me/2017/08/24/%E8%BD%AC-Go-Cheat-Sheet/"/>
     <id>https://ehlxr.me/2017/08/24/转-Go-Cheat-Sheet/</id>
     <published>2017-08-24T06:18:53.000Z</published>
-    <updated>2017-08-24T07:47:02.000Z</updated>
+    <updated>2017-08-26T02:48:40.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Go-Cheat-Sheet"><a href="#Go-Cheat-Sheet" class="headerlink" title="Go Cheat Sheet"></a>Go Cheat Sheet</h1><h2 id="Credits"><a href="#Credits" class="headerlink" title="Credits"></a>Credits</h2><p>Most example code taken from <a href="http://tour.golang.org/" target="_blank" rel="external">A Tour of Go</a>, which is an excellent introduction to Go.<br>If you’re new to Go, do that tour. Seriously.</p>
 <h2 id="Go-in-a-Nutshell"><a href="#Go-in-a-Nutshell" class="headerlink" title="Go in a Nutshell"></a>Go in a Nutshell</h2><ul>
@@ -35,10 +35,10 @@
 <li>Functions can return multiple values</li>
 <li>Has closures</li>
 <li>Pointers, but not pointer arithmetic</li>
-<li>Built-in concurrency primitives: Goroutines and Channels<a id="more"></a>
-<h1 id="Basic-Syntax"><a href="#Basic-Syntax" class="headerlink" title="Basic Syntax"></a>Basic Syntax</h1></li>
+<li>Built-in concurrency primitives: Goroutines and Channels</li>
 </ul>
-<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2><p>File <code>hello.go</code>:<br><figure class="highlight go"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">package</span> main</div><div class="line"></div><div class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></div><div class="line"></div><div class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</div><div class="line">    fmt.Println(<span class="string">"Hello Go"</span>)</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<a id="more"></a>
+<h1 id="Basic-Syntax"><a href="#Basic-Syntax" class="headerlink" title="Basic Syntax"></a>Basic Syntax</h1><h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2><p>File <code>hello.go</code>:<br><figure class="highlight go"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">package</span> main</div><div class="line"></div><div class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></div><div class="line"></div><div class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</div><div class="line">    fmt.Println(<span class="string">"Hello Go"</span>)</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
 <p><code>$ go run hello.go</code></p>
 <h2 id="Operators"><a href="#Operators" class="headerlink" title="Operators"></a>Operators</h2><h3 id="Arithmetic"><a href="#Arithmetic" class="headerlink" title="Arithmetic"></a>Arithmetic</h3><table>
 <thead>
@@ -245,10 +245,17 @@
 &lt;li&gt;Functions can return multiple values&lt;/li&gt;
 &lt;li&gt;Has closures&lt;/li&gt;
 &lt;li&gt;Pointers, but not pointer arithmetic&lt;/li&gt;
-&lt;li&gt;Built-in concurrency primitives: Goroutines and Channels
+&lt;li&gt;Built-in concurrency primitives: Goroutines and Channels&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
+      <category term="Golang" scheme="https://ehlxr.me/categories/Golang/"/>
+    
+    
+      <category term="Golang" scheme="https://ehlxr.me/tags/Golang/"/>
+    
+      <category term="Go" scheme="https://ehlxr.me/tags/Go/"/>
     
   </entry>
   

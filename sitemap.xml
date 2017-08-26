@@ -4,7 +4,7 @@
   <url>
     <loc>https://ehlxr.me/2017/08/24/%E8%BD%AC-Go-Cheat-Sheet/</loc>
     
-    <lastmod>2017-08-24T07:47:02.000Z</lastmod>
+    <lastmod>2017-08-26T02:48:40.000Z</lastmod>
     
   </url>
   
@@ -219,7 +219,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/categories/index.html</loc>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/11/02/%E6%B5%8B%E8%AF%95-Travis-CI-%E7%BB%93%E5%90%88-Hexo-%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
+    <loc>https://ehlxr.me/2016/11/02/%E6%B5%8B%E8%AF%95-Travis-CI-%E7%BB%93%E5%90%88-Hexo-%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -275,7 +275,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
+    <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -289,7 +289,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
+    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -310,7 +310,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
+    <loc>https://ehlxr.me/picture/index.html</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -324,6 +324,13 @@
   </url>
   
   <url>
+    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
+    
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ehlxr.me/2016/08/22/%E8%BD%AC-Java%E7%A8%8B%E5%BA%8F%E5%91%98%E6%83%85%E4%B9%A6/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
@@ -331,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/picture/index.html</loc>
+    <loc>https://ehlxr.me/2016/12/30/%E8%BD%AC-shell-%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8C%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%8C%BA%E5%88%AB/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -339,13 +346,6 @@
   
   <url>
     <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
-    
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ehlxr.me/2016/12/30/%E8%BD%AC-shell-%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8C%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%8C%BA%E5%88%AB/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
@@ -387,7 +387,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
+    <loc>https://ehlxr.me/categories/index.html</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
