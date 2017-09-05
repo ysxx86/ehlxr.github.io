@@ -307,23 +307,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <loc>https://ehlxr.me/2017/01/07/CentOS-7-%E5%AE%89%E8%A3%85-Python3%E3%80%81pip3/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>使用Hexo基于GitHub Pages搭建个人博客（一）</title>
-        <pubTime>2016-07-23T03:35:43.000Z</pubTime>
+        <title>CentOS 7 安装Python3、pip3</title>
+        <pubTime>2017-01-07T11:23:22.000Z</pubTime>
         
-        <tag>Git</tag>
+        <tag>Linux</tag>
          
-        <tag>GitHub</tag>
+        <tag>CentOS</tag>
          
-        <tag>Hexo</tag>
+        <tag>Python</tag>
          
          
            
              
-              <breadCrumb title="Hexo" url="https://ehlxr.me/categories/Hexo/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -603,23 +603,21 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85-Node-js/</loc>
+    <loc>https://ehlxr.me/2016/09/06/5-%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA-Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-Gogs/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 7 安装 Node.js</title>
-        <pubTime>2016-07-30T08:19:03.000Z</pubTime>
+        <title>5 分钟搭建 Git 服务器-Gogs</title>
+        <pubTime>2016-09-06T04:15:14.000Z</pubTime>
         
-        <tag>Linux</tag>
+        <tag>Gogs</tag>
          
-        <tag>Node.js</tag>
-         
-        <tag>CentOS</tag>
+        <tag>Git</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -627,23 +625,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
+    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 7 安装最新的 Git</title>
-        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
+        <title>使用Hexo基于GitHub Pages搭建个人博客（一）</title>
+        <pubTime>2016-07-23T03:35:43.000Z</pubTime>
         
         <tag>Git</tag>
          
-        <tag>Linux</tag>
+        <tag>GitHub</tag>
          
-        <tag>CentOS</tag>
+        <tag>Hexo</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Hexo" url="https://ehlxr.me/categories/Hexo/"/>
           
         </display>
     </data>
@@ -839,6 +837,30 @@
     </url>
 
     
+  <url>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 7 安装最新的 Git</title>
+        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
@@ -891,6 +913,30 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
+        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
+        
+        <tag>CentOS</tag>
+         
+        <tag>Git</tag>
+         
+        <tag>GitLab</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2017/01/09/Docker-%E5%88%A9%E7%94%A8%E6%95%B0%E6%8D%AE%E5%8D%B7%E5%AE%B9%E5%99%A8%E6%9D%A5%E5%A4%87%E4%BB%BD%E3%80%81%E6%81%A2%E5%A4%8D%E3%80%81%E8%BF%81%E7%A7%BB%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -904,30 +950,6 @@
            
              
               <breadCrumb title="Docker" url="https://ehlxr.me/categories/Docker/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
-        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>GitLab</tag>
-         
-         
-           
-             
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -997,50 +1019,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/09/06/5-%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA-Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-Gogs/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>5 分钟搭建 Git 服务器-Gogs</title>
-        <pubTime>2016-09-06T04:15:14.000Z</pubTime>
-        
-        <tag>Gogs</tag>
-         
-        <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/20/Java-List%E4%B8%8E%E6%95%B0%E7%BB%84%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java List与数组之间的转换</title>
-        <pubTime>2016-07-20T07:52:33.000Z</pubTime>
-        
-        <tag>Java</tag>
-         
-        <tag>List</tag>
-         
-         
-           
-             
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -1063,14 +1041,40 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/03/29/Java-%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/</loc>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85-Node-js/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Java 获取系统的配置信息</title>
-        <pubTime>2017-03-29T07:33:54.000Z</pubTime>
+        <title>CentOS 7 安装 Node.js</title>
+        <pubTime>2016-07-30T08:19:03.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>Node.js</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/20/Java-List%E4%B8%8E%E6%95%B0%E7%BB%84%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>Java List与数组之间的转换</title>
+        <pubTime>2016-07-20T07:52:33.000Z</pubTime>
         
         <tag>Java</tag>
+         
+        <tag>List</tag>
          
          
            
@@ -1104,23 +1108,19 @@
     
     
   <url>
-    <loc>https://ehlxr.me/2017/01/07/CentOS-7-%E5%AE%89%E8%A3%85-Python3%E3%80%81pip3/</loc>
+    <loc>https://ehlxr.me/2017/03/29/Java-%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 7 安装Python3、pip3</title>
-        <pubTime>2017-01-07T11:23:22.000Z</pubTime>
+        <title>Java 获取系统的配置信息</title>
+        <pubTime>2017-03-29T07:33:54.000Z</pubTime>
         
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>Python</tag>
+        <tag>Java</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
@@ -1158,9 +1158,9 @@
         <title>CentOS 中配置 Git 命令自动补全</title>
         <pubTime>2016-09-04T02:03:35.000Z</pubTime>
         
-        <tag>Git</tag>
-         
         <tag>CentOS</tag>
+         
+        <tag>Git</tag>
          
          
            
