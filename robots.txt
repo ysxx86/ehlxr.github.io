@@ -13,5 +13,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.ehlxr.me/baidusitemap.xml
-Sitemap: http://www.ehlxr.me/sitemap.xml
+Sitemap: https://ehlxr.me/baidusitemap.xml
+Sitemap: https://ehlxr.me/sitemap.xml
