@@ -331,16 +331,14 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/01/18/Linux-%E7%9A%84-nohup-%E5%91%BD%E4%BB%A4%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
+    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Linux 的 nohup 命令的用法</title>
-        <pubTime>2017-01-18T08:13:21.000Z</pubTime>
+        <title>Linux 操作笔记</title>
+        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
         
         <tag>Linux</tag>
-         
-        <tag>nohup</tag>
          
          
            
@@ -353,14 +351,16 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ehlxr.me/2017/01/18/Linux-%E7%9A%84-nohup-%E5%91%BD%E4%BB%A4%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
         <display>
-        <title>Linux 操作笔记</title>
-        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
+        <title>Linux 的 nohup 命令的用法</title>
+        <pubTime>2017-01-18T08:13:21.000Z</pubTime>
         
         <tag>Linux</tag>
+         
+        <tag>nohup</tag>
          
          
            
@@ -626,6 +626,7 @@
     </url>
 
     
+    
   <url>
     <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
@@ -649,7 +650,6 @@
     </data>
     </url>
 
-    
     
   <url>
     <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
@@ -959,26 +959,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/24/Git-%E5%90%8C%E6%97%B6-push-%E5%88%B0%E5%A4%9A%E4%B8%AA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>Git 同时 push 到多个远程仓库</title>
-        <pubTime>2016-07-24T10:55:59.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/11/03/Docker-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -992,6 +972,26 @@
            
              
               <breadCrumb title="Docker" url="https://ehlxr.me/categories/Docker/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/24/Git-%E5%90%8C%E6%97%B6-push-%E5%88%B0%E5%A4%9A%E4%B8%AA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git 同时 push 到多个远程仓库</title>
+        <pubTime>2016-07-24T10:55:59.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -1021,28 +1021,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
-    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
-        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/09/06/5-%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA-Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-Gogs/</loc>
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     <data>
@@ -1058,6 +1036,28 @@
            
              
               <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
+    <lastmod>2017-07-10T04:35:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
+        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
