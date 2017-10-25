@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ehlxr.me/"/>
-  <updated>2017-10-13T06:30:21.000Z</updated>
+  <updated>2017-10-25T06:50:16.000Z</updated>
   <id>https://ehlxr.me/</id>
   
   <author>
@@ -14,6 +14,144 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[转]Tmux 快捷键 &amp; 速查表</title>
+    <link href="https://ehlxr.me/2017/10/25/%E8%BD%AC-Tmux-%E5%BF%AB%E6%8D%B7%E9%94%AE-%E9%80%9F%E6%9F%A5%E8%A1%A8/"/>
+    <id>https://ehlxr.me/2017/10/25/转-Tmux-快捷键-速查表/</id>
+    <published>2017-10-25T06:45:24.000Z</published>
+    <updated>2017-10-25T06:50:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Tmux-快捷键-amp-速查表"><a href="#Tmux-快捷键-amp-速查表" class="headerlink" title="Tmux 快捷键 &amp; 速查表"></a>Tmux 快捷键 &amp; 速查表</h1><p>启动新会话：</p>
+<pre><code>tmux [new -s 会话名 -n 窗口名]
+</code></pre><p>恢复会话：</p>
+<pre><code>tmux at [-t 会话名]
+</code></pre><p>列出所有会话：</p>
+<pre><code>tmux ls
+</code></pre><p><a name="killSessions"></a>关闭会话：</p>
+<pre><code>tmux kill-session -t 会话名
+</code></pre><p><a name="killAllSessions"></a>关闭所有会话：</p>
+<pre><code>tmux ls | grep : | cut -d. -f1 | awk &apos;{print substr($1, 0, length($1)-1)}&apos; | xargs kill
+</code></pre><a id="more"></a>
+<h1 id="在-Tmux-中，按下-Tmux-前缀-ctrl-b，然后："><a href="#在-Tmux-中，按下-Tmux-前缀-ctrl-b，然后：" class="headerlink" title="在 Tmux 中，按下 Tmux 前缀 ctrl+b，然后："></a>在 Tmux 中，按下 Tmux 前缀 <code>ctrl+b</code>，然后：</h1><h2 id="会话"><a href="#会话" class="headerlink" title="会话"></a>会话</h2><pre><code>:new&lt;回车&gt;  启动新会话
+s           列出所有会话
+$           重命名当前会话
+</code></pre><h2 id="窗口-标签页"><a href="#窗口-标签页" class="headerlink" title="窗口 (标签页)"></a><a name="WindowsTabs"></a>窗口 (标签页)</h2><pre><code>c  创建新窗口
+w  列出所有窗口
+n  后一个窗口
+p  前一个窗口
+f  查找窗口
+,  重命名当前窗口
+&amp;  关闭当前窗口
+</code></pre><h2 id="调整窗口排序"><a href="#调整窗口排序" class="headerlink" title="调整窗口排序"></a>调整窗口排序</h2><pre><code>swap-window -s 3 -t 1  交换 3 号和 1 号窗口
+swap-window -t 1       交换当前和 1 号窗口
+move-window -t 1       移动当前窗口到 1 号
+</code></pre><h2 id="窗格（分割窗口）"><a href="#窗格（分割窗口）" class="headerlink" title="窗格（分割窗口）"></a><a name="PanesSplits"></a>窗格（分割窗口）</h2><pre><code>%  垂直分割
+&quot;  水平分割
+o  交换窗格
+x  关闭窗格
+⍽  左边这个符号代表空格键 - 切换布局
+q 显示每个窗格是第几个，当数字出现的时候按数字几就选中第几个窗格
+{ 与上一个窗格交换位置
+} 与下一个窗格交换位置
+z 切换窗格最大化/最小化
+</code></pre><h2 id="同步窗格"><a href="#同步窗格" class="headerlink" title="同步窗格"></a><a name="syncPanes"></a>同步窗格</h2><p>这么做可以切换到想要的窗口，输入 Tmux 前缀和一个冒号呼出命令提示行，然后输入：</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="selector-pseudo">:setw</span> <span class="selector-tag">synchronize-panes</span></div></pre></td></tr></table></figure>
+<p>你可以指定开或关，否则重复执行命令会在两者间切换。<br>这个选项值针对某个窗口有效，不会影响别的会话和窗口。<br>完事儿之后再次执行命令来关闭。<a href="http://blog.sanctum.geek.nz/sync-tmux-panes/" target="_blank" rel="external">帮助</a></p>
+<h2 id="调整窗格尺寸"><a href="#调整窗格尺寸" class="headerlink" title="调整窗格尺寸"></a>调整窗格尺寸</h2><p>如果你不喜欢默认布局，可以重调窗格的尺寸。虽然这很容易实现，但一般不需要这么干。这几个命令用来调整窗格：</p>
+<pre><code>PREFIX : resize-pane -D          当前窗格向下扩大 1 格
+PREFIX : resize-pane -U          当前窗格向上扩大 1 格
+PREFIX : resize-pane -L          当前窗格向左扩大 1 格
+PREFIX : resize-pane -R          当前窗格向右扩大 1 格
+PREFIX : resize-pane -D 20       当前窗格向下扩大 20 格
+PREFIX : resize-pane -t 2 -L 20  编号为 2 的窗格向左扩大 20 格
+</code></pre><h2 id="文本复制模式："><a href="#文本复制模式：" class="headerlink" title="文本复制模式："></a>文本复制模式：</h2><p>按下<strong>前缀 [</strong>进入文本复制模式。可以使用方向键在屏幕中移动光标。默认情况下，方向键是启用的。在配置文件中启用 Vim 键盘布局来切换窗口、调整窗格大小。Tmux 也支持 Vi 模式。要是想启用 Vi 模式，只需要把下面这一行添加到 .tmux.conf 中：</p>
+<pre><code>setw -g mode-keys vi
+</code></pre><p>启用这条配置后，就可以使用 h、j、k、l 来移动光标了。</p>
+<p>想要退出文本复制模式的话，按下回车键就可以了。一次移动一格效率低下，在 Vi 模式启用的情况下，可以辅助一些别的快捷键高效工作。</p>
+<p>例如，可以使用 w 键逐词移动，使用 b 键逐词回退。使用 f 键加上任意字符跳转到当前行第一次出现该字符的位置，使用 F 键达到相反的效果。</p>
+<pre><code>vi             emacs        功能
+^              M-m          反缩进
+Escape         C-g          清除选定内容
+Enter          M-w          复制选定内容
+j              Down         光标下移
+h              Left         光标左移
+l              Right        光标右移
+L                           光标移到尾行
+M              M-r          光标移到中间行
+H              M-R          光标移到首行
+k              Up           光标上移
+d              C-u          删除整行
+D              C-k          删除到行末
+$              C-e          移到行尾
+:              g            前往指定行
+C-d            M-Down       向下滚动半屏
+C-u            M-Up         向上滚动半屏
+C-f            Page down    下一页
+w              M-f          下一个词
+p              C-y          粘贴
+C-b            Page up      上一页
+b              M-b          上一个词
+q              Escape       退出
+C-Down or J    C-Down       向下翻
+C-Up or K      C-Up         向下翻
+n              n            继续搜索
+?              C-r          向前搜索
+/              C-s          向后搜索
+0              C-a          移到行首
+Space          C-Space      开始选中
+               C-t          字符调序
+</code></pre><h2 id="杂项："><a href="#杂项：" class="headerlink" title="杂项："></a>杂项：</h2><pre><code>d  退出 tmux（tmux 仍在后台运行）
+t  窗口中央显示一个数字时钟
+?  列出所有快捷键
+:  命令提示符
+</code></pre><h2 id="配置选项："><a href="#配置选项：" class="headerlink" title="配置选项："></a>配置选项：</h2><pre><code># 鼠标支持 - 设置为 on 来启用鼠标
+* setw -g mode-mouse off
+* set -g mouse-select-pane off
+* set -g mouse-resize-pane off
+* set -g mouse-select-window off
+
+# 设置默认终端模式为 256color
+set -g default-terminal &quot;screen-256color&quot;
+
+# 启用活动警告
+setw -g monitor-activity on
+set -g visual-activity on
+
+# 居中窗口列表
+set -g status-justify centre
+
+# 最大化/恢复窗格
+unbind Up bind Up new-window -d -n tmp \; swap-pane -s tmp.1 \; select-window -t tmp
+unbind Down
+bind Down last-window \; swap-pane -s tmp.1 \; kill-window -t tmp
+</code></pre><h2 id="配置文件（-tmux-conf）："><a href="#配置文件（-tmux-conf）：" class="headerlink" title="配置文件（~/.tmux.conf）："></a>配置文件（~/.tmux.conf）：</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># 基础设置</span></div><div class="line"><span class="built_in">set</span> -g default-terminal <span class="string">"screen-256color"</span></div><div class="line"><span class="built_in">set</span> -g display-time 3000</div><div class="line"><span class="built_in">set</span> -g escape-time 0</div><div class="line"><span class="built_in">set</span> -g <span class="built_in">history</span>-limit 65535</div><div class="line"><span class="built_in">set</span> -g base-index 1</div><div class="line"><span class="built_in">set</span> -g pane-base-index 1</div><div class="line"></div><div class="line"><span class="comment"># 前缀绑定 (Ctrl+a)</span></div><div class="line"><span class="built_in">set</span> -g prefix ^a</div><div class="line">unbind ^b</div><div class="line"><span class="built_in">bind</span> a send-prefix</div><div class="line"></div><div class="line"><span class="comment"># 分割窗口</span></div><div class="line">unbind <span class="string">'"'</span></div><div class="line"><span class="built_in">bind</span> - splitw -v</div><div class="line">unbind %</div><div class="line"><span class="built_in">bind</span> | splitw -h</div><div class="line"></div><div class="line"><span class="comment"># 选中窗口</span></div><div class="line"><span class="built_in">bind</span>-key k select-pane -U</div><div class="line"><span class="built_in">bind</span>-key j select-pane -D</div><div class="line"><span class="built_in">bind</span>-key h select-pane -L</div><div class="line"><span class="built_in">bind</span>-key l select-pane -R</div><div class="line"></div><div class="line"><span class="comment"># copy-mode 将快捷键设置为 vi 模式</span></div><div class="line">setw -g mode-keys vi</div><div class="line"></div><div class="line"><span class="comment"># 启用鼠标(Tmux v2.1)</span></div><div class="line"><span class="built_in">set</span> -g mouse on</div><div class="line"></div><div class="line"><span class="comment"># 更新配置文件</span></div><div class="line"><span class="built_in">bind</span> r <span class="built_in">source</span>-file ~/.tmux.conf \; display <span class="string">"已更新"</span></div><div class="line"></div><div class="line"><span class="comment">#&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span></div><div class="line"><span class="comment"># Tmux Plugin Manager(Tmux v2.1)</span></div><div class="line"><span class="comment"># Tmux Resurrect</span></div><div class="line"><span class="built_in">set</span> -g @plugin <span class="string">'tmux-plugins/tmux-resurrect'</span></div><div class="line"></div><div class="line"><span class="comment"># List of plugins</span></div><div class="line"><span class="built_in">set</span> -g @plugin <span class="string">'tmux-plugins/tpm'</span></div><div class="line"><span class="built_in">set</span> -g @plugin <span class="string">'tmux-plugins/tmux-sensible'</span></div><div class="line"></div><div class="line"><span class="comment"># Other examples:</span></div><div class="line"><span class="comment"># set -g @plugin 'github_username/plugin_name'</span></div><div class="line"><span class="comment"># set -g @plugin 'git@github.com/user/plugin'</span></div><div class="line"><span class="comment"># set -g @plugin 'git@bitbucket.com/user/plugin'</span></div><div class="line"></div><div class="line"><span class="comment"># Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)</span></div><div class="line">run <span class="string">'~/.tmux/plugins/tpm/tpm'</span></div><div class="line"><span class="comment">#&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span></div></pre></td></tr></table></figure>
+<hr>
+<p><a href="https://gist.github.com/ryerh/14b7c24dfd623ef8edc7" target="_blank" rel="external">原文地址</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Tmux-快捷键-amp-速查表&quot;&gt;&lt;a href=&quot;#Tmux-快捷键-amp-速查表&quot; class=&quot;headerlink&quot; title=&quot;Tmux 快捷键 &amp;amp; 速查表&quot;&gt;&lt;/a&gt;Tmux 快捷键 &amp;amp; 速查表&lt;/h1&gt;&lt;p&gt;启动新会话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tmux [new -s 会话名 -n 窗口名]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;恢复会话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tmux at [-t 会话名]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;列出所有会话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tmux ls
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a name=&quot;killSessions&quot;&gt;&lt;/a&gt;关闭会话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tmux kill-session -t 会话名
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a name=&quot;killAllSessions&quot;&gt;&lt;/a&gt;关闭所有会话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tmux ls | grep : | cut -d. -f1 | awk &amp;apos;{print substr($1, 0, length($1)-1)}&amp;apos; | xargs kill
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="开发工具" scheme="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Tmux" scheme="https://ehlxr.me/tags/Tmux/"/>
+    
+  </entry>
   
   <entry>
     <title>[转] Go Cheat Sheet</title>
@@ -1446,35 +1584,6 @@
     
     
       <category term="Vim" scheme="https://ehlxr.me/tags/Vim/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>忙忙碌碌的十一月份</title>
-    <link href="https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/"/>
-    <id>https://ehlxr.me/2016/11/30/忙忙碌碌的十一月份/</id>
-    <published>2016-11-30T12:04:13.000Z</published>
-    <updated>2017-10-13T06:30:21.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>早就有计划在西安买房，一直觉得还早，主要是没钱，近期有人肯借钱就想看看市场。买房需要做很多准备工作，本想着慢慢先看着，一边从同学朋友那里打听消息，一边从网上看各个楼盘信息，怎奈越看越着急，就想一下子赶紧买了。看中的两个楼盘，价格其实都远远超过自己的预算和目前能承受的能力，不得不说我是一个容易被蛊惑的人，听着置业顾问的天花乱坠的描述，有好几次都差点都掉坑里了。</p>
-<p><img src="/images/post/20161130202110.jpg" alt=""></p>
-<a id="more"></a>
-<p>不得不吐槽ZF的户口、档案制度，不知道坑了多少人。上大学的时候响应学校的号召，傻乎乎的把户口从老家迁到了学校，现在也没想明白把户口迁过去是为了什么。毕业后二不拉几的嫌麻烦就随大流没有及时把户口、档案迁回去。买房按揭要户口，才意识到这个大坑不尽早填上只会越来越麻烦。为了搞清楚怎样能把户口迁回去，我战战兢兢的打通了相关部门的服务电话号（还好还好，才打了几十次就有人接听了），服务态度和传说中的“为人民服务”一样，果然没让我失望，折腾了整整一天，总算搞明白了大概该怎么弄。还好有同学在，不用自己再去跑一趟，准备好相关的资料邮寄过去就只能祈祷了…</p>
-<p>听说十二月份房价要涨，今天最后一天了，中介也“劝告”了我好几次赶紧出手，自己也心动了无数次。十一月份马上结束了，纠结的心该平静了些了，终究还是没有出手…</p>
-<hr>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;早就有计划在西安买房，一直觉得还早，主要是没钱，近期有人肯借钱就想看看市场。买房需要做很多准备工作，本想着慢慢先看着，一边从同学朋友那里打听消息，一边从网上看各个楼盘信息，怎奈越看越着急，就想一下子赶紧买了。看中的两个楼盘，价格其实都远远超过自己的预算和目前能承受的能力，不得不说我是一个容易被蛊惑的人，听着置业顾问的天花乱坠的描述，有好几次都差点都掉坑里了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/post/20161130202110.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="杂谈" scheme="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-      <category term="杂谈" scheme="https://ehlxr.me/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
