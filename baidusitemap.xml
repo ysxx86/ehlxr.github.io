@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2017/10/25/%E8%BD%AC-Tmux-%E5%BF%AB%E6%8D%B7%E9%94%AE%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <lastmod>2017-11-06T03:24:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转]Tmux 快捷键速查表</title>
+        <pubTime>2017-10-25T06:45:24.000Z</pubTime>
+        
+        <tag>Tmux</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2017/07/25/%E4%BD%BF%E7%94%A8-PowerMock-%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2017-11-03T06:44:55.000Z</lastmod>
     <data>
@@ -23,26 +43,6 @@
            
              
               <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2017/10/25/%E8%BD%AC-Tmux-%E5%BF%AB%E6%8D%B7%E9%94%AE-%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
-    <lastmod>2017-10-25T06:50:16.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转]Tmux 快捷键 & 速查表</title>
-        <pubTime>2017-10-25T06:45:24.000Z</pubTime>
-        
-        <tag>Tmux</tag>
-         
-         
-           
-             
-              <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
@@ -120,26 +120,6 @@
     
     
   <url>
-    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转] Kafka入门教程</title>
-        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
-        
-        <tag>Kafka</tag>
-         
-         
-           
-             
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -157,6 +137,26 @@
            
              
               <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/09/28/%E9%97%B2%E8%A8%80%E7%A2%8E%E8%AF%AD%EF%BC%8C%E4%B8%8D%E7%9F%A5%E6%89%80%E4%BA%91/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>闲言碎语，不知所云...</title>
+        <pubTime>2016-09-28T05:34:18.000Z</pubTime>
+        
+        <tag>杂谈</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -246,19 +246,21 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/09/28/%E9%97%B2%E8%A8%80%E7%A2%8E%E8%AF%AD%EF%BC%8C%E4%B8%8D%E7%9F%A5%E6%89%80%E4%BA%91/</loc>
+    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>闲言碎语，不知所云...</title>
-        <pubTime>2016-09-28T05:34:18.000Z</pubTime>
+        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
+        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
         
-        <tag>杂谈</tag>
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
          
          
            
              
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -370,6 +372,26 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2016/07/20/MySQL%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>MySQL日期函数</title>
+        <pubTime>2016-07-20T06:16:17.000Z</pubTime>
+        
+        <tag>MySQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2016/09/02/Naruto-Pictures/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -385,26 +407,6 @@
            
              
               <breadCrumb title="图片" url="https://ehlxr.me/categories/%E5%9B%BE%E7%89%87/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/20/MySQL%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>MySQL日期函数</title>
-        <pubTime>2016-07-20T06:16:17.000Z</pubTime>
-        
-        <tag>MySQL</tag>
-         
-         
-           
-             
-              <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
           
         </display>
     </data>
@@ -498,21 +500,19 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
+    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
-        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
+        <title>[转] Kafka入门教程</title>
+        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
         
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
+        <tag>Kafka</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
