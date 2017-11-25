@@ -137,23 +137,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>使用Hexo基于GitHub Pages搭建个人博客（一）</title>
-        <pubTime>2016-07-23T03:35:43.000Z</pubTime>
+        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
+        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
         
         <tag>Git</tag>
          
-        <tag>GitHub</tag>
+        <tag>CentOS</tag>
          
-        <tag>Hexo</tag>
+        <tag>GitLab</tag>
          
          
            
              
-              <breadCrumb title="Hexo" url="https://ehlxr.me/categories/Hexo/"/>
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -538,6 +538,27 @@
     </url>
 
     
+  <url>
+    <loc>https://ehlxr.me/2016/12/30/%E8%BD%AC-shell-%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8C%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%8C%BA%E5%88%AB/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>[转] shell 中单引号、双引号、反引号、反斜杠区别</title>
+        <pubTime>2016-12-30T07:36:51.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>shell</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://ehlxr.me/2016/10/25/Windows-10-%E5%88%A0%E9%99%A4%E3%80%81%E6%81%A2%E5%A4%8D%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E4%B8%AD%E2%80%9C%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E7%89%87%E2%80%9D%E7%AD%89%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
@@ -582,23 +603,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
+    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 安装 Nginx</title>
-        <pubTime>2016-12-23T03:20:44.000Z</pubTime>
+        <title>使用Hexo基于GitHub Pages搭建个人博客（一）</title>
+        <pubTime>2016-07-23T03:35:43.000Z</pubTime>
         
-        <tag>Linux</tag>
+        <tag>Git</tag>
          
-        <tag>CentOS</tag>
+        <tag>GitHub</tag>
          
-        <tag>Nginx</tag>
+        <tag>Hexo</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Hexo" url="https://ehlxr.me/categories/Hexo/"/>
           
         </display>
     </data>
@@ -629,17 +650,18 @@
     </url>
 
     
+    
   <url>
-    <loc>https://ehlxr.me/2016/12/30/%E8%BD%AC-shell-%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8C%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%8C%BA%E5%88%AB/</loc>
+    <loc>https://ehlxr.me/2017/05/24/%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3%E3%80%81PID-%E6%9F%A5%E8%AF%A2%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>[转] shell 中单引号、双引号、反引号、反斜杠区别</title>
-        <pubTime>2016-12-30T07:36:51.000Z</pubTime>
+        <title>占用端口、PID 查询总结</title>
+        <pubTime>2017-05-24T02:45:20.000Z</pubTime>
         
         <tag>Linux</tag>
          
-        <tag>shell</tag>
+        <tag>Mac</tag>
          
          
            
@@ -674,28 +696,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/05/24/%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3%E3%80%81PID-%E6%9F%A5%E8%AF%A2%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>占用端口、PID 查询总结</title>
-        <pubTime>2017-05-24T02:45:20.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>Mac</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/07/19/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -704,6 +704,26 @@
         <pubTime>2016-07-19T09:16:17.000Z</pubTime>
         
         <tag>hello</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>忙忙碌碌的十一月份</title>
+        <pubTime>2016-11-30T12:04:13.000Z</pubTime>
+        
+        <tag>杂谈</tag>
          
          
            
@@ -731,26 +751,6 @@
            
              
               <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>忙忙碌碌的十一月份</title>
-        <pubTime>2016-11-30T12:04:13.000Z</pubTime>
-        
-        <tag>杂谈</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -820,6 +820,26 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2016/10/24/%E8%AE%BE%E7%BD%AE-Sublime-Text3-%E4%B8%BB%E9%A2%98%E9%80%8F%E6%98%8E/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>设置 Sublime Text3 主题透明</title>
+        <pubTime>2016-10-24T09:30:55.000Z</pubTime>
+        
+        <tag>Sublime</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -837,26 +857,6 @@
            
              
               <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/10/24/%E8%AE%BE%E7%BD%AE-Sublime-Text3-%E4%B8%BB%E9%A2%98%E9%80%8F%E6%98%8E/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>设置 Sublime Text3 主题透明</title>
-        <pubTime>2016-10-24T09:30:55.000Z</pubTime>
-        
-        <tag>Sublime</tag>
-         
-         
-           
-             
-              <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
@@ -903,6 +903,29 @@
     </url>
 
     
+  <url>
+    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 安装 Nginx</title>
+        <pubTime>2016-12-23T03:20:44.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Nginx</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://ehlxr.me/2016/07/21/%E8%BD%AC-JMS%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
@@ -926,29 +949,6 @@
     </url>
 
     
-  <url>
-    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
-        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>GitLab</tag>
-         
-         
-           
-             
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>https://ehlxr.me/2016/08/22/%E8%BD%AC-Java%E7%A8%8B%E5%BA%8F%E5%91%98%E6%83%85%E4%B9%A6/</loc>
