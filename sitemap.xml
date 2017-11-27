@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
+    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -72,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/12/31/Good-bye-2016/</loc>
-    
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ehlxr.me/2016/07/24/Git-%E5%90%8C%E6%97%B6-push-%E5%88%B0%E5%A4%9A%E4%B8%AA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
@@ -93,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/10/19/%E8%BD%AC-%E7%94%A8-Markdown-%E5%86%99%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%EF%BC%88Evernote%EF%BC%89/</loc>
+    <loc>https://ehlxr.me/2016/12/31/Good-bye-2016/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -107,6 +100,13 @@
   </url>
   
   <url>
+    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ehlxr.me/2017/01/18/Linux-%E4%B8%AD-fg%E3%80%81bg%E3%80%81jobs%E3%80%81-%E6%8C%87%E4%BB%A4/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ehlxr.me/2016/10/19/%E8%BD%AC-%E7%94%A8-Markdown-%E5%86%99%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%EF%BC%88Evernote%EF%BC%89/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -177,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/categories/index.html</loc>
+    <loc>https://ehlxr.me/2016/10/25/Windows-10-%E5%88%A0%E9%99%A4%E3%80%81%E6%81%A2%E5%A4%8D%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E4%B8%AD%E2%80%9C%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E7%89%87%E2%80%9D%E7%AD%89%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/10/25/Windows-10-%E5%88%A0%E9%99%A4%E3%80%81%E6%81%A2%E5%A4%8D%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E4%B8%AD%E2%80%9C%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E7%89%87%E2%80%9D%E7%AD%89%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
+    <loc>https://ehlxr.me/2016/12/30/%E8%BD%AC-shell-%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8C%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%8C%BA%E5%88%AB/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -226,20 +226,6 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/12/30/%E8%BD%AC-shell-%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8C%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E5%BC%95%E5%8F%B7%E3%80%81%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%8C%BA%E5%88%AB/</loc>
-    
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ehlxr.me/about/index.html</loc>
-    
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ehlxr.me/2016/07/19/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
@@ -247,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2017/05/24/%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3%E3%80%81PID-%E6%9F%A5%E8%AF%A2%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://ehlxr.me/2016/07/23/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -255,6 +241,13 @@
   
   <url>
     <loc>https://ehlxr.me/2016/11/30/%E5%BF%99%E5%BF%99%E7%A2%8C%E7%A2%8C%E7%9A%84%E5%8D%81%E4%B8%80%E6%9C%88%E4%BB%BD/</loc>
+    
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ehlxr.me/2017/05/24/%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3%E3%80%81PID-%E6%9F%A5%E8%AF%A2%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -282,21 +275,14 @@
   </url>
   
   <url>
+    <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
+    
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ehlxr.me/2016/10/24/%E8%AE%BE%E7%BD%AE-Sublime-Text3-%E4%B8%BB%E9%A2%98%E9%80%8F%E6%98%8E/</loc>
-    
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ehlxr.me/2017/06/15/%E8%BD%AC-Git%E6%9F%A5%E7%9C%8B%E3%80%81%E5%88%A0%E9%99%A4%E3%80%81%E9%87%8D%E5%91%BD%E5%90%8D%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E5%92%8Ctag/</loc>
-    
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -310,7 +296,21 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://ehlxr.me/2017/01/10/%E8%BD%AC-CentOS-%E5%8D%87%E7%BA%A7-kernel/</loc>
+    
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ehlxr.me/2017/06/15/%E8%BD%AC-Git%E6%9F%A5%E7%9C%8B%E3%80%81%E5%88%A0%E9%99%A4%E3%80%81%E9%87%8D%E5%91%BD%E5%90%8D%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E5%92%8Ctag/</loc>
+    
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ehlxr.me/categories/index.html</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -324,14 +324,14 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/08/22/%E8%BD%AC-Java%E7%A8%8B%E5%BA%8F%E5%91%98%E6%83%85%E4%B9%A6/</loc>
+    <loc>https://ehlxr.me/about/index.html</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
+    <loc>https://ehlxr.me/2016/08/22/%E8%BD%AC-Java%E7%A8%8B%E5%BA%8F%E5%91%98%E6%83%85%E4%B9%A6/</loc>
     
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     
@@ -352,14 +352,14 @@
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/12/02/Vim-Tab-%E8%AE%BE%E7%BD%AE%E4%B8%BA-4-%E4%B8%AA%E7%A9%BA%E6%A0%BC/</loc>
+    <loc>https://ehlxr.me/2016/11/18/Test-daocloud-CI/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ehlxr.me/2016/11/18/Test-daocloud-CI/</loc>
+    <loc>https://ehlxr.me/2016/12/02/Vim-Tab-%E8%AE%BE%E7%BD%AE%E4%B8%BA-4-%E4%B8%AA%E7%A9%BA%E6%A0%BC/</loc>
     
     <lastmod>2017-07-10T04:35:35.000Z</lastmod>
     
