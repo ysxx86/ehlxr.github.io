@@ -181,23 +181,21 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://ehlxr.me/2016/07/19/hello-world/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
-        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
+        <title>Hello World</title>
+        <pubTime>2016-07-19T02:47:23.000Z</pubTime>
         
-        <tag>CentOS</tag>
+        <tag>杂谈</tag>
          
-        <tag>Git</tag>
-         
-        <tag>GitLab</tag>
+        <tag>hello</tag>
          
          
            
              
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -218,26 +216,6 @@
            
              
               <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/11/03/Docker-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>Docker 学习笔记</title>
-        <pubTime>2016-11-03T07:46:19.000Z</pubTime>
-        
-        <tag>Docker</tag>
-         
-         
-           
-             
-              <breadCrumb title="Docker" url="https://ehlxr.me/categories/Docker/"/>
           
         </display>
     </data>
@@ -267,19 +245,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2017/03/29/Java-%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/</loc>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>Java 获取系统的配置信息</title>
-        <pubTime>2017-03-29T07:33:54.000Z</pubTime>
+        <title>CentOS 7 安装最新的 Git</title>
+        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
         
-        <tag>Java</tag>
+        <tag>Linux</tag>
+         
+        <tag>Git</tag>
+         
+        <tag>CentOS</tag>
          
          
            
              
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -307,16 +289,54 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
+    <loc>https://ehlxr.me/2017/03/29/Java-%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
-        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
+        <title>Java 获取系统的配置信息</title>
+        <pubTime>2017-03-29T07:33:54.000Z</pubTime>
+        
+        <tag>Java</tag>
+         
+         
+           
+             
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/09/28/%E9%97%B2%E8%A8%80%E7%A2%8E%E8%AF%AD%EF%BC%8C%E4%B8%8D%E7%9F%A5%E6%89%80%E4%BA%91/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>闲言碎语，不知所云...</title>
+        <pubTime>2016-09-28T05:34:18.000Z</pubTime>
+        
+        <tag>杂谈</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 操作笔记</title>
+        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
         
         <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
          
          
            
@@ -349,43 +369,19 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0%E7%9A%84-Git/</loc>
+    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>CentOS 7 安装最新的 Git</title>
-        <pubTime>2016-07-30T14:12:43.000Z</pubTime>
+        <title>[转] Kafka入门教程</title>
+        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
         
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>Git</tag>
+        <tag>Kafka</tag>
          
          
            
              
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2017/04/14/Linux-%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>Linux 操作笔记</title>
-        <pubTime>2017-04-14T03:18:41.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
@@ -406,50 +402,6 @@
            
              
               <breadCrumb title="SQL" url="https://ehlxr.me/categories/SQL/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/09/28/%E9%97%B2%E8%A8%80%E7%A2%8E%E8%AF%AD%EF%BC%8C%E4%B8%8D%E7%9F%A5%E6%89%80%E4%BA%91/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>闲言碎语，不知所云...</title>
-        <pubTime>2016-09-28T05:34:18.000Z</pubTime>
-        
-        <tag>杂谈</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 安装 Nginx</title>
-        <pubTime>2016-12-23T03:20:44.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>CentOS</tag>
-         
-        <tag>Nginx</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -503,6 +455,7 @@
     </url>
 
     
+    
   <url>
     <loc>https://ehlxr.me/2016/07/25/Sublime-Text-%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
@@ -517,6 +470,30 @@
            
              
               <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/12/23/CentOS-%E5%AE%89%E8%A3%85-Nginx/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 安装 Nginx</title>
+        <pubTime>2016-12-23T03:20:44.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Nginx</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -545,7 +522,6 @@
     </url>
 
     
-    
   <url>
     <loc>https://ehlxr.me/2016/10/25/Windows-10-%E5%88%A0%E9%99%A4%E3%80%81%E6%81%A2%E5%A4%8D%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E4%B8%AD%E2%80%9C%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E7%89%87%E2%80%9D%E7%AD%89%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
@@ -567,21 +543,23 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/19/hello-world/</loc>
+    <loc>https://ehlxr.me/2016/07/31/CentOS-%E7%B3%BB%E7%BB%9F%E4%B8%8B-GitLab-%E6%90%AD%E5%BB%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2016-07-19T02:47:23.000Z</pubTime>
+        <title>CentOS 系统下 GitLab 搭建与基本配置</title>
+        <pubTime>2016-07-31T10:15:47.000Z</pubTime>
         
-        <tag>杂谈</tag>
+        <tag>Git</tag>
          
-        <tag>hello</tag>
+        <tag>CentOS</tag>
+         
+        <tag>GitLab</tag>
          
          
            
              
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -589,21 +567,45 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/09/06/5-%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA-Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-Gogs/</loc>
+    <loc>https://ehlxr.me/2016/07/30/%E8%BD%AC-%E5%B0%86-Centos-%E7%9A%84-yum-%E6%BA%90%E6%9B%B4%E6%94%B9%E4%B8%BA%E5%9B%BD%E5%86%85%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>5 分钟搭建 Git 服务器-Gogs</title>
-        <pubTime>2016-09-06T04:15:14.000Z</pubTime>
+        <title>[转]将 Centos 的 yum 源更改为国内的阿里云源</title>
+        <pubTime>2016-07-30T03:57:59.000Z</pubTime>
         
-        <tag>Gogs</tag>
+        <tag>Linux</tag>
          
-        <tag>Git</tag>
+        <tag>CentOS</tag>
          
          
            
              
-              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85-Node-js/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 7 安装 Node.js</title>
+        <pubTime>2016-07-30T08:19:03.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+        <tag>CentOS</tag>
+         
+        <tag>Node.js</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
           
         </display>
     </data>
@@ -701,26 +703,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/19/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>开始blog，哈哈</title>
-        <pubTime>2016-07-19T09:16:17.000Z</pubTime>
-        
-        <tag>hello</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/11/18/%E8%BD%AC-Linux-%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC%E5%92%8C%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -763,6 +745,26 @@
 
     
   <url>
+    <loc>https://ehlxr.me/2016/07/19/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>开始blog，哈哈</title>
+        <pubTime>2016-07-19T09:16:17.000Z</pubTime>
+        
+        <tag>hello</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ehlxr.me/2016/11/02/%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8-daocloud-%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA-Hexo/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -785,26 +787,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>看懂的人都还在加班中...</title>
-        <pubTime>2016-10-27T07:06:38.000Z</pubTime>
-        
-        <tag>程序员幽默</tag>
-         
-         
-           
-             
-              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/10/24/%E8%AE%BE%E7%BD%AE-Sublime-Text3-%E4%B8%BB%E9%A2%98%E9%80%8F%E6%98%8E/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -818,6 +800,26 @@
            
              
               <breadCrumb title="开发工具" url="https://ehlxr.me/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/10/27/%E7%9C%8B%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E8%BF%98%E5%9C%A8%E5%8A%A0%E7%8F%AD%E4%B8%AD/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>看懂的人都还在加班中...</title>
+        <pubTime>2016-10-27T07:06:38.000Z</pubTime>
+        
+        <tag>程序员幽默</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>
@@ -889,19 +891,41 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/10/10/%E8%BD%AC-Kafka%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ehlxr.me/2016/07/21/%E8%BD%AC-JMS%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
         <display>
-        <title>[转] Kafka入门教程</title>
-        <pubTime>2016-10-10T13:40:52.000Z</pubTime>
+        <title>[转] JMS 基本概念</title>
+        <pubTime>2016-07-21T04:35:43.000Z</pubTime>
         
-        <tag>Kafka</tag>
+        <tag>Java</tag>
+         
+        <tag>JMS</tag>
          
          
            
              
               <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/11/03/Docker-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>Docker 学习笔记</title>
+        <pubTime>2016-11-03T07:46:19.000Z</pubTime>
+        
+        <tag>Docker</tag>
+         
+         
+           
+             
+              <breadCrumb title="Docker" url="https://ehlxr.me/categories/Docker/"/>
           
         </display>
     </data>
@@ -929,52 +953,6 @@
 
     
   <url>
-    <loc>https://ehlxr.me/2016/07/30/CentOS-7-%E5%AE%89%E8%A3%85-Node-js/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 7 安装 Node.js</title>
-        <pubTime>2016-07-30T08:19:03.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-        <tag>Node.js</tag>
-         
-        <tag>CentOS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="https://ehlxr.me/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ehlxr.me/2016/07/21/%E8%BD%AC-JMS%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
-    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>[转] JMS 基本概念</title>
-        <pubTime>2016-07-21T04:35:43.000Z</pubTime>
-        
-        <tag>Java</tag>
-         
-        <tag>JMS</tag>
-         
-         
-           
-             
-              <breadCrumb title="Java开发技术" url="https://ehlxr.me/categories/Java%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ehlxr.me/2016/08/22/%E8%BD%AC-Java%E7%A8%8B%E5%BA%8F%E5%91%98%E6%83%85%E4%B9%A6/</loc>
     <lastmod>2017-10-13T06:30:21.000Z</lastmod>
     <data>
@@ -988,6 +966,28 @@
            
              
               <breadCrumb title="杂谈" url="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ehlxr.me/2016/09/06/5-%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA-Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-Gogs/</loc>
+    <lastmod>2017-10-13T06:30:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>5 分钟搭建 Git 服务器-Gogs</title>
+        <pubTime>2016-09-06T04:15:14.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>Gogs</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="https://ehlxr.me/categories/Git/"/>
           
         </display>
     </data>
@@ -1202,9 +1202,9 @@
         <title>CentOS 中配置 Git 命令自动补全</title>
         <pubTime>2016-09-04T02:03:35.000Z</pubTime>
         
-        <tag>CentOS</tag>
-         
         <tag>Git</tag>
+         
+        <tag>CentOS</tag>
          
          
            
