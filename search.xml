@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Go 常用代码块]]></title>
     <url>%2F2017%2F12%2F06%2Fgo-commons-code-snippets%2F</url>
-    <content type="text"><![CDATA[总结备忘一下常用的的 Go 代码片段 遍历目录下的文件123456789101112131415func getFilelist(root string) &#123; err := filepath.Walk(root, func(path string, file os.FileInfo, err error) error &#123; if file == nil &#123; return nil &#125; if path == root || file.IsDir() &#123; return nil &#125; fmt.Println(path) return nil &#125;) if err != nil &#123; fmt.Printf("filepath.Walk() returned %v\n", err) &#125;&#125; 定时器1234567891011duration := 2 * time.Secondtimer := time.NewTimer(duration)go func() &#123; for &#123; select &#123; case &lt;-timer.C: fmt.Println("here") timer.Reset(duration) &#125; &#125;&#125;() 定时执行任务12345678910111213141516171819202122232425262728293031package mainimport ( "fmt" "time")const INTERVAL_PERIOD time.Duration = 24 * time.Hourconst HOUR_TO_TICK int = 23const MINUTE_TO_TICK int = 00const SECOND_TO_TICK int = 03func main() &#123; ticker := updateTicker() for &#123; &lt;-ticker.C fmt.Println(time.Now(), "- just ticked") ticker = updateTicker() &#125;&#125;func updateTicker() *time.Ticker &#123; nextTick := time.Date(time.Now().Year(), time.Now().Month(), time.Now().Day(), HOUR_TO_TICK, MINUTE_TO_TICK, SECOND_TO_TICK, 0, time.Local) if !nextTick.After(time.Now()) &#123; nextTick = nextTick.Add(INTERVAL_PERIOD) &#125; fmt.Println(nextTick, "- next tick") diff := nextTick.Sub(time.Now()) return time.NewTicker(diff)&#125;]]></content>
+    <content type="text"><![CDATA[总结备忘一下常用的的 Go 代码片段 遍历目录下的文件123456789101112131415func getFilelist(root string) &#123; err := filepath.Walk(root, func(path string, file os.FileInfo, err error) error &#123; if file == nil &#123; return nil &#125; if path == root || file.IsDir() &#123; return nil &#125; fmt.Println(path) return nil &#125;) if err != nil &#123; fmt.Printf("filepath.Walk() returned %v\n", err) &#125;&#125; 定时器1234567891011duration := 2 * time.Secondtimer := time.NewTimer(duration)go func() &#123; for &#123; select &#123; case &lt;-timer.C: fmt.Println("here") timer.Reset(duration) &#125; &#125;&#125;() 定时执行任务12345678910111213141516171819202122232425262728293031package mainimport ( "fmt" "time")const INTERVAL_PERIOD time.Duration = 24 * time.Hourconst HOUR_TO_TICK int = 23const MINUTE_TO_TICK int = 00const SECOND_TO_TICK int = 03func main() &#123; ticker := updateTicker() for &#123; &lt;-ticker.C fmt.Println(time.Now(), "- just ticked") ticker = updateTicker() &#125;&#125;func updateTicker() *time.Ticker &#123; nextTick := time.Date(time.Now().Year(), time.Now().Month(), time.Now().Day(), HOUR_TO_TICK, MINUTE_TO_TICK, SECOND_TO_TICK, 0, time.Local) if !nextTick.After(time.Now()) &#123; nextTick = nextTick.Add(INTERVAL_PERIOD) &#125; fmt.Println(nextTick, "- next tick") diff := nextTick.Sub(time.Now()) return time.NewTicker(diff)&#125; 读取文件12345678910f, err := os.Open("/test.txt")if err != nil &#123; panic(err)&#125;defer f.Close()fd, err := ioutil.ReadAll(f)if err != nil &#123; panic(err)&#125;fmt.Println(string(fd)) map 转 json12345678m := make(map[string]interface&#123;&#125;)m["show"] = "1"m["content"] = "test"j, err := json.Marshal(m)if err != nil &#123; panic(err)&#125;fmt.Println(string(j)) json 转 map1234567891011var result = []byte(`&#123; "show": 1, "content": "test"&#125;`)var r map[string]interface&#123;&#125;if err := json.Unmarshal(result, &amp;r); err != nil &#123; panic(err)&#125;fmt.Println(r) 写文件12345678910func writeFile(path string, b []byte) &#123; file, err := os.OpenFile(path, os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0777) defer file.Close() if err != nil &#123; panic(err) &#125; file.Write(b)&#125; 简单的获取 IP1234567func GetPulicIP() string &#123; conn, _ := net.Dial("udp", "8.8.8.8:80") defer conn.Close() localAddr := conn.LocalAddr().String() idx := strings.LastIndex(localAddr, ":") return localAddr[0:idx]&#125;]]></content>
       <categories>
         <category>Golang</category>
       </categories>
@@ -429,8 +429,8 @@
         <category>Git</category>
       </categories>
       <tags>
-        <tag>Git</tag>
         <tag>Gogs</tag>
+        <tag>Git</tag>
       </tags>
   </entry>
   <entry>
@@ -501,8 +501,8 @@
         <category>Linux</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
         <tag>Git</tag>
+        <tag>Linux</tag>
         <tag>CentOS</tag>
       </tags>
   </entry>
@@ -515,8 +515,8 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-        <tag>CentOS</tag>
         <tag>Node.js</tag>
+        <tag>CentOS</tag>
       </tags>
   </entry>
   <entry>
