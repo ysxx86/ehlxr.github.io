@@ -75,12 +75,12 @@ gRPC
 
 ### 项目描述
 
-注册发现
-重试机制
-熔断机制 Hystrix
-负载均衡
-监控机制 Pinpoint / Prometheus + Grafana
-框架级扩展机制 spi
+- 注册发现
+- 重试机制
+- 熔断机制 Hystrix
+- 负载均衡
+- 监控机制 Pinpoint / Prometheus + Grafana
+- 框架级扩展机制 spi
 
 ### 项目职责
 

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ehlxr.me/"/>
-  <updated>2017-12-22T06:02:09.092Z</updated>
+  <updated>2018-01-02T01:56:36.376Z</updated>
   <id>https://ehlxr.me/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>又是一年岁末时...</title>
+    <link href="https://ehlxr.me/2017/12/31/summary-in-2017/"/>
+    <id>https://ehlxr.me/2017/12/31/summary-in-2017/</id>
+    <published>2017-12-31T03:52:58.000Z</published>
+    <updated>2018-01-02T01:56:36.376Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017 年最后一天了，北京的天气很好，阳光明媚，关键是没有雾霾。说起雾霾，今年北京可是”治理”的很有效果，截止目前雾霾天和去年的好天气一样多，买了个空气净化器还没怎么派上用场，哈哈。</p><p>步入了婚姻的殿堂，享受幸福的同是多了一份责任。进入人生下一个阶段，需要处理的关系更多，新的一年需要勉励自己不断前行…</p><p>奋斗在一线的程序猿，到了一定的阶段，就不得不审视一下自己的未来。作为碌碌无为低端程序猿的我，此刻对未来感到深深的迷茫。少了年少时的拼劲，多了肩膀上的重担，不知作为下一个低端人群的我在北京还能拼搏多久。</p><p>更为可悲的是，每当危机到来的时候才发觉自己已经快退化的让自己害怕了，偶尔看到一句话：“六年开发经验？还是学习了一年，重复工作了五年”，值得深思。</p><p>2017 已经逝去，2018 任道而重远…</p><a id="more"></a><p><img src="https://ws1.sinaimg.cn/large/687148dbly1fn20sekpb2j20qq0hqqib.jpg" alt=""></p><hr>  <!-- [1]: /images/post/20180102.png -->]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017 年最后一天了，北京的天气很好，阳光明媚，关键是没有雾霾。说起雾霾，今年北京可是”治理”的很有效果，截止目前雾霾天和去年的好天气一样多，买了个空气净化器还没怎么派上用场，哈哈。&lt;/p&gt;
+&lt;p&gt;步入了婚姻的殿堂，享受幸福的同是多了一份责任。进入人生下一个阶段，需要处理的关系更多，新的一年需要勉励自己不断前行…&lt;/p&gt;
+&lt;p&gt;奋斗在一线的程序猿，到了一定的阶段，就不得不审视一下自己的未来。作为碌碌无为低端程序猿的我，此刻对未来感到深深的迷茫。少了年少时的拼劲，多了肩膀上的重担，不知作为下一个低端人群的我在北京还能拼搏多久。&lt;/p&gt;
+&lt;p&gt;更为可悲的是，每当危机到来的时候才发觉自己已经快退化的让自己害怕了，偶尔看到一句话：“六年开发经验？还是学习了一年，重复工作了五年”，值得深思。&lt;/p&gt;
+&lt;p&gt;2017 已经逝去，2018 任道而重远…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="年末总结" scheme="https://ehlxr.me/categories/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="年末总结" scheme="https://ehlxr.me/tags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>Go 常用代码块</title>
@@ -169,11 +195,11 @@
       <category term="Golang" scheme="https://ehlxr.me/categories/Golang/"/>
     
     
-      <category term="Java" scheme="https://ehlxr.me/tags/Java/"/>
-    
       <category term="Golang" scheme="https://ehlxr.me/tags/Golang/"/>
     
       <category term="Go" scheme="https://ehlxr.me/tags/Go/"/>
+    
+      <category term="Java" scheme="https://ehlxr.me/tags/Java/"/>
     
   </entry>
   
@@ -508,7 +534,7 @@
     <link href="https://ehlxr.me/2016/12/31/Good-bye-2016/"/>
     <id>https://ehlxr.me/2016/12/31/Good-bye-2016/</id>
     <published>2016-12-31T04:51:14.000Z</published>
-    <updated>2017-10-13T06:30:21.000Z</updated>
+    <updated>2017-12-31T03:55:40.117Z</updated>
     
     <content type="html"><![CDATA[<p>时光飞逝，转眼间，2016 年已经在今天画上句号，结束了，再提起 2016 年就已经是过往了…</p><p>印象中，十年应该要算是很长的一段时间吧，但仔细一琢磨十年前也就才 2006 年…那时候是高中，每天除了上课就是写作业，学习很枯燥总感觉时间很多，憧憬着美好的未来，过着也算是无忧无虑生活。每天放学，下晚自习，总是很快的骑着自行车冲出校门口，因为晚了学生会很多，那时候骑自行车一个比一个快。周五不用上晚自习，三五成群去网吧通宵，包宿八块钱八个小时，从晚上十点到第二天早上六点，六点从网吧出来总会有种恍如隔世的感觉，大街上几乎没有人，回出租屋睡上一天，感觉就是一周最美好的时光了！看着别的同学拿着小灵通、MP3 ，很羡慕，自已也想要有一个，都不敢奢望能有一台电脑…一切仿佛也就是昨天而已，但是已经十年之前了，不禁一颤，人生能有几个十年…</p><a id="more"></a><p>总结 2016，收获，知足，感恩…眼前的要珍惜，来之不易的拥有更要珍惜。</p><!-- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" height= "90%" width="100%" src="https://music.daoapp.io/iframe?song=35307971&qssl=1&qlrc=1&qnarrow=0&autoplay=1"></iframe> --><hr>]]></content>
     
@@ -519,10 +545,10 @@
     
     </summary>
     
-      <category term="杂谈" scheme="https://ehlxr.me/categories/%E6%9D%82%E8%B0%88/"/>
+      <category term="年末总结" scheme="https://ehlxr.me/categories/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/"/>
     
     
-      <category term="杂谈" scheme="https://ehlxr.me/tags/%E6%9D%82%E8%B0%88/"/>
+      <category term="年末总结" scheme="https://ehlxr.me/tags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -582,37 +608,6 @@
       <category term="CentOS" scheme="https://ehlxr.me/tags/CentOS/"/>
     
       <category term="Nginx" scheme="https://ehlxr.me/tags/Nginx/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CentOS 安装 rar、zip 解压缩</title>
-    <link href="https://ehlxr.me/2016/12/22/CentOS-%E5%AE%89%E8%A3%85-rar%E3%80%81zip-%E8%A7%A3%E5%8E%8B%E7%BC%A9/"/>
-    <id>https://ehlxr.me/2016/12/22/CentOS-安装-rar、zip-解压缩/</id>
-    <published>2016-12-22T07:39:45.000Z</published>
-    <updated>2017-07-10T04:35:35.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Windows 系统压缩的 rar 和 zip 文件，在 Linux 系统下是无法通过 tar 命令解压缩的，需要使用 rar 和 zip 命令来解压缩。下面记录一下 rar 和 zip 安装和简单的使用。</p><h1 id="一、rar-安装使用"><a href="#一、rar-安装使用" class="headerlink" title="一、rar 安装使用"></a>一、rar 安装使用</h1><p>Linux 系统下使用 rarlinux 解压缩 rar 压缩文件，下载页面：<a href="http://www.rarsoft.com/download.htm。" target="_blank" rel="noopener">http://www.rarsoft.com/download.htm。</a></p><h2 id="1-1-下载系统对应的版本"><a href="#1-1-下载系统对应的版本" class="headerlink" title="1.1 下载系统对应的版本"></a>1.1 下载系统对应的版本</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ wget http://www.rarsoft.com/rar/rarlinux-x64-5.4.0.tar.gz</div></pre></td></tr></table></figure><h2 id="1-2-解压、安装"><a href="#1-2-解压、安装" class="headerlink" title="1.2 解压、安装"></a>1.2 解压、安装</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ tar -zxvf rarlinux-x64-5.4.0.tar.gz</div><div class="line">$ <span class="built_in">cd</span> rar</div><div class="line">$ make</div></pre></td></tr></table></figure><a id="more"></a><p>看见下面这些信息就是安装成功了：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">mkdir -p /usr/<span class="built_in">local</span>/bin</div><div class="line">mkdir -p /usr/<span class="built_in">local</span>/lib</div><div class="line">cp rar unrar /usr/<span class="built_in">local</span>/bin</div><div class="line">cp rarfiles.lst /etc</div><div class="line">cp default.sfx /usr/<span class="built_in">local</span>/lib</div></pre></td></tr></table></figure><h2 id="1-3-常用-rar-命令"><a href="#1-3-常用-rar-命令" class="headerlink" title="1.3 常用 rar 命令"></a>1.3 常用 rar 命令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ rar x centos.rar <span class="comment"># 解压 centos.rar 到当前目录</span></div><div class="line">$ rar centos.rar ./piaoyi.org/ <span class="comment"># 将 piaoyi.org 目录打包为 centos.rar</span></div></pre></td></tr></table></figure><h2 id="1-4-常见错误原因分析"><a href="#1-4-常见错误原因分析" class="headerlink" title="1.4 常见错误原因分析"></a>1.4 常见错误原因分析</h2><h3 id="1-4-1-如果在运行命令-rar-时-出现下面这个问题"><a href="#1-4-1-如果在运行命令-rar-时-出现下面这个问题" class="headerlink" title="1.4.1 如果在运行命令 rar 时,出现下面这个问题"></a>1.4.1 如果在运行命令 rar 时,出现下面这个问题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rar: /lib/i686/nosegneg/libc.so.6: version <span class="string">'GLIBC_2.7'</span> not found (required by rar)</div></pre></td></tr></table></figure><p>解决办法：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ cp rar_static /usr/<span class="built_in">local</span>/bin/rar</div></pre></td></tr></table></figure><h3 id="1-4-2-使用-rar-的时候出现错误"><a href="#1-4-2-使用-rar-的时候出现错误" class="headerlink" title="1.4.2 使用 rar 的时候出现错误"></a>1.4.2 使用 rar 的时候出现错误</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash: /usr/<span class="built_in">local</span>/bin/rar: /lib/ld-linux.so.2: bad ELF interpreter: No such file or directory</div></pre></td></tr></table></figure><p>因为 64 位系统中安装了 32 位程序，解决方法：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ yum install glibc.i686</div></pre></td></tr></table></figure><h3 id="1-4-3-重新安装-glibc-i686-以后还有如下类似错误"><a href="#1-4-3-重新安装-glibc-i686-以后还有如下类似错误" class="headerlink" title="1.4.3 重新安装 glibc.i686 以后还有如下类似错误"></a>1.4.3 重新安装 glibc.i686 以后还有如下类似错误</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">error <span class="keyword">while</span> loading shared libraries: libstdc++.so.6: cannot open shared object file: No such file or directory</div></pre></td></tr></table></figure><p>再继续安装包：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ yum install libstdc++.so.6</div></pre></td></tr></table></figure><h1 id="二、zip-unzip-安装使用"><a href="#二、zip-unzip-安装使用" class="headerlink" title="二、zip/unzip 安装使用"></a>二、zip/unzip 安装使用</h1><h2 id="2-1-检查是否有包含-zip（unzip）-的软件包"><a href="#2-1-检查是否有包含-zip（unzip）-的软件包" class="headerlink" title="2.1 检查是否有包含 zip（unzip） 的软件包"></a>2.1 检查是否有包含 zip（unzip） 的软件包</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">$ yum provides zip</div><div class="line">Loaded plugins: fastestmirror</div><div class="line">Loading mirror speeds from cached hostfile</div><div class="line"> * base: mirrors.cqu.edu.cn</div><div class="line"> * extras: mirrors.cqu.edu.cn</div><div class="line"> * updates: mirrors.tuna.tsinghua.edu.cn</div><div class="line">zip-3.0-11.el7.x86_64 : A file compression and packaging utility compatible with PKZIP</div><div class="line">Repo        : base</div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line">zip-3.0-11.el7.x86_64 : A file compression and packaging utility compatible with PKZIP</div><div class="line">Repo        : @base</div></pre></td></tr></table></figure><h2 id="2-2-安装-zip、unzip"><a href="#2-2-安装-zip、unzip" class="headerlink" title="2.2 安装 zip、unzip"></a>2.2 安装 zip、unzip</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ yum install zip</div><div class="line">$ yum install unzip</div></pre></td></tr></table></figure><h2 id="2-3-常用命令"><a href="#2-3-常用命令" class="headerlink" title="2.3 常用命令"></a>2.3 常用命令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">$ zip -r myfile.zip ./*</div><div class="line"><span class="comment"># 将当前目录下的所有文件和文件夹全部压缩成 myfile.zip 文件，-r 表示递归压缩子目录下所有文件.</span></div><div class="line"></div><div class="line">$ unzip -o -d /home/sunny myfile.zip</div><div class="line"><span class="comment"># 把 myfile.zip 文件解压到 /home/sunny/</span></div><div class="line"><span class="comment"># -o ：不提示的情况下覆盖文件</span></div><div class="line"><span class="comment"># -d：将文件解压缩到指定目录下</span></div><div class="line"></div><div class="line">$ zip -d myfile.zip smart.txt</div><div class="line"><span class="comment"># 删除压缩文件中 smart.txt 文件</span></div><div class="line"></div><div class="line">$ zip -m myfile.zip ./rpm_info.txt</div><div class="line"><span class="comment"># 向压缩文件中 myfile.zip 中添加 rpm_info.txt 文件</span></div></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Windows 系统压缩的 rar 和 zip 文件，在 Linux 系统下是无法通过 tar 命令解压缩的，需要使用 rar 和 zip 命令来解压缩。下面记录一下 rar 和 zip 安装和简单的使用。&lt;/p&gt;
-&lt;h1 id=&quot;一、rar-安装使用&quot;&gt;&lt;a href=&quot;#一、rar-安装使用&quot; class=&quot;headerlink&quot; title=&quot;一、rar 安装使用&quot;&gt;&lt;/a&gt;一、rar 安装使用&lt;/h1&gt;&lt;p&gt;Linux 系统下使用 rarlinux 解压缩 rar 压缩文件，下载页面：&lt;a href=&quot;http://www.rarsoft.com/download.htm。&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.rarsoft.com/download.htm。&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;1-1-下载系统对应的版本&quot;&gt;&lt;a href=&quot;#1-1-下载系统对应的版本&quot; class=&quot;headerlink&quot; title=&quot;1.1 下载系统对应的版本&quot;&gt;&lt;/a&gt;1.1 下载系统对应的版本&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ wget http://www.rarsoft.com/rar/rarlinux-x64-5.4.0.tar.gz&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;1-2-解压、安装&quot;&gt;&lt;a href=&quot;#1-2-解压、安装&quot; class=&quot;headerlink&quot; title=&quot;1.2 解压、安装&quot;&gt;&lt;/a&gt;1.2 解压、安装&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ tar -zxvf rarlinux-x64-5.4.0.tar.gz&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;$ &lt;span class=&quot;built_in&quot;&gt;cd&lt;/span&gt; rar&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;$ make&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="Linux" scheme="https://ehlxr.me/categories/Linux/"/>
-    
-    
-      <category term="Linux" scheme="https://ehlxr.me/tags/Linux/"/>
-    
-      <category term="CentOS" scheme="https://ehlxr.me/tags/CentOS/"/>
-    
-      <category term="rar" scheme="https://ehlxr.me/tags/rar/"/>
-    
-      <category term="zip" scheme="https://ehlxr.me/tags/zip/"/>
     
   </entry>
   
